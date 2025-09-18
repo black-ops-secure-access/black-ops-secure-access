@@ -2,9 +2,9 @@
 
 Accessing Black Ops securely is vital to protect your anonymity, funds, and transaction integrity on this cutting-edge darknet market. Black Ops has built its reputation as one of the most user-responsible platforms by enforcing strong security protocols.
  
-[<img src="/asset/crisp.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/asset/crisp.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/asset/piece.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/asset/piece.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 Advantages of Secure Access on Black Ops
 
@@ -22,4 +22,6 @@ Secure Access Best Practices for Users
 
 These steps ensure users maximize Black Ops’ security benefits while shopping in a safer darknet environment.
 
-Start your secure access here: http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion
+Start your secure access here: http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion
+
+Update:  18 September Fixed broken url, now active
