@@ -24,4 +24,6 @@ These steps ensure users maximize Black Ops’ security benefits while shopping 
 
 Start your secure access here: http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion
 
-Update:  18 September Fixed broken url, now active
+
+
+Update:  Wednesday 01 October 2025
